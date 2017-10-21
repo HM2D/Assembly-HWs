@@ -1,3 +1,3 @@
 # Assembly-HWs
 
-Some works i've done in assembly. 
+Some useful functions in assembly.
